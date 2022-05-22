@@ -11,7 +11,7 @@ I'm not a native [English](https://www.englishclub.com/what-is-english/) Speaker
 If you want to hire me; Then dm this person on discord: LionViper#7650 Or join [this dc Server](https://discord.gg/Z4AHHsEJPv) and [ping](https://linuxhint.com/ping-discord/#:~:text=You%20can%20easily%20ping%20any,ping%20people%20with%20a%20nickname.) me there 
 
 ### Things I have created:
-[Link](https://www.youtube.com/watch?v=d7xp8pIX_tc), [Link](https://www.youtube.com/watch?v=q236k6Em6dk), [Link](https://www.youtube.com/watch?v=ECkVcZ7q940), [Link](https://www.youtube.com/watch?v=26vaTzh04l0)
+[Link](https://www.youtube.com/watch?v=d7xp8pIX_tc), [Link](https://www.youtube.com/watch?v=q236k6Em6dk), [Link](https://www.youtube.com/watch?v=ECkVcZ7q940), [Link](https://www.youtube.com/watch?v=26vaTzh04l0), [Link](https://www.youtube.com/watch?v=xii8GbeWOdI), [Link](https://www.youtube.com/watch?v=P3os1wolKdo), [Link](https://www.youtube.com/watch?v=KbliBN83NYQ), [Link](https://www.youtube.com/watch?v=bRvEW3B7nxM)
 
 ### Hope you hire me >:)
 Or I will steal your [cookies](https://roblox.fandom.com/wiki/.ROBLOSECURITY) 🍪😎
