@@ -11,13 +11,7 @@ I'm not a native [English](https://www.englishclub.com/what-is-english/) Speaker
 If you want to hire me; Then dm this person on discord: LionViper#7650 Or join [this dc Server](https://discord.gg/Z4AHHsEJPv) and [ping](https://linuxhint.com/ping-discord/#:~:text=You%20can%20easily%20ping%20any,ping%20people%20with%20a%20nickname.) me there 
 
 ### Things I have created:
-[Link](https://www.youtube.com/watch?v=d7xp8pIX_tc) --Rotating Camera for Simulator Game (Ignore the GUI; Im not a GUI Creator!)
-
-[Link](https://www.youtube.com/watch?v=q236k6Em6dk) --Blindness Spell
-
--- An easy to use Advancement/Achievement Library (Demonstration Video comming soon!)
-
-[Important Link](https://www.youtube.com/watch?v=j7gKwxRe7MQ) -- Most importantly; A really cool Film Maker in Roblox
+[Link](https://www.youtube.com/watch?v=d7xp8pIX_tc), [Link](https://www.youtube.com/watch?v=q236k6Em6dk), 
 
 ### Hope you hire me >:)
 Or I will steal your [cookies](https://roblox.fandom.com/wiki/.ROBLOSECURITY) 🍪😎
