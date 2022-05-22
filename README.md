@@ -1,6 +1,6 @@
 ## Welcome!
 ### Links
-[RPortfolio](https://dracofaad.github.io/LionViperWebsite/portfolio)
+[RPortfolio]([https://dracofaad.github.io/LionViperWebsite/portfolio](https://dracofaad.github.io/Lion-Viper/))
 
 ### Information
 [Youtube](https://www.youtube.com/channel/UCPl_jUf-bF1GMNn3tdoH5gw): DracoFAAD
