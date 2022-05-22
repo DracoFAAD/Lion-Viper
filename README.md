@@ -1,6 +1,6 @@
 ## Welcome!
 ### Links
-[RPortfolio](https://dracofaad.github.io/Lion-Viper/portfolio)
+[Roblox Portfolio](https://dracofaad.github.io/Lion-Viper/portfolio)
 
 ### Information
 [Youtube](https://www.youtube.com/channel/UCPl_jUf-bF1GMNn3tdoH5gw): DracoFAAD
