@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Iliketomoveit007 && Iliketomoveit008 Portfolio
 
-You can use the [editor on GitHub](https://github.com/DracoFAAD/LionViperWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Information
+Hello, My Age is 13, and I have 3+ Years of Scripting Experience in the Category [Roblox Lua](https://developer.roblox.com/en-us/learn-roblox/coding-scripts). (Yes, I was 10 when I started scripting.)
+I can do a lot of [stuff](https://www.yourdictionary.com/stuff) you would like me to do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bad Information
+I'm not a native [English](https://www.englishclub.com/what-is-english/) Speaker. So if I don't understand something, I will ask you to explain what you mean.
 
-### Markdown
+### Want to hire me?
+If you want to hire me; Then dm this person on discord: LionViper#7650 Or join [this dc Server](https://discord.gg/Z4AHHsEJPv) and [ping](https://linuxhint.com/ping-discord/#:~:text=You%20can%20easily%20ping%20any,ping%20people%20with%20a%20nickname.) me there 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Things I have created:
+[Link](https://www.youtube.com/watch?v=d7xp8pIX_tc) --Rotating Camera for Simulator Game (Ignore the GUI; Im not a GUI Creator!)
 
-```markdown
-Syntax highlighted code block
+[Link](https://www.youtube.com/watch?v=q236k6Em6dk) --Blindness Spell
 
-# Header 1
-## Header 2
-### Header 3
+-- An easy to use Advancement/Achievement Library (Demonstration Video comming soon!)
 
-- Bulleted
-- List
+[Important Link](https://www.youtube.com/watch?v=j7gKwxRe7MQ) -- Most importantly; A really cool Film Maker in Roblox
 
-1. Numbered
-2. List
+### Hope you hire me >:)
+Or I will steal your [cookies](https://roblox.fandom.com/wiki/.ROBLOSECURITY) 🍪😎
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DracoFAAD/LionViperWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
